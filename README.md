@@ -1,3 +1,27 @@
+# Design For Interior - React
+
+<strong>Design For Interior</strong><br>
+In 2019 heb ik een logo, huisstijl en website ontwikkeld voor Design For Interior. Voor de website van Design For Interior heb ik aan de back-end gebruik gemaakt van PHP in combinatie met een MySql database. Aan de front-end heb ik gebruik gemaakt van bootstrap 4 en jQuery.
+
+> <strong>Bekijk de originele website op</strong><br> http://www.designforinterior.com/zoeken
+
+<br>
+<strong>Deze repository</strong><br>
+Om aan te tonen dat ik meer in huis heb dan het bouwen van een website op een traditionele manier heb ik ervoor gekozen een kleinere versie van de website ook te bouwen met React en met Vue. In deze github respository is de React variant te vinden.<br>
+<br>
+
+> <strong>Bekijk de website gemaakt met React op</strong><br> http://www.vanlitmedia.nl/dfi-react
+
+<br>
+<br>
+Voel je vrij om in mijn code te kijken. Clone deze repository, ssh naar de map en volg de stappen hieronder.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

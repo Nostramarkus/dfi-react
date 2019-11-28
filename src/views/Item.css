@@ -1,0 +1,41 @@
+.dfi-a-terug-wrapper {
+  padding: 40px 0 30px 0;
+}
+.dfi-a-terug {
+  color: rgba(73, 73, 73, 0.8);
+}
+.dfi-a-terug:hover {
+  color: #252525;
+  text-decoration: none;
+}
+.dfi-bekijk-product-prijs {
+  background-color: #494949;
+  position: absolute;
+  right: 0;
+  float: right;
+  text-align: right;
+  margin-top: 20px;
+  z-index: 1;
+  font-weight: bold;
+  color: white;
+  line-height: 1;
+  font-size: 27px;
+  padding: 4px 8px 10px 8px;
+  border-radius: 3px;
+}
+.dfi-foto-wrapper {
+  box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.14);
+  transition: 0.3s;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+.dfi-gallery {
+  min-width: 100%;
+}
+.dfi-item-info-table {
+  margin: 20px 0 50px 0;
+}
+.dfi-logo-item-page {
+  padding: 0px 30px;
+  width: 100%;
+}

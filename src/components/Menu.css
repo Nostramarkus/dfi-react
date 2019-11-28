@@ -1,0 +1,7 @@
+.navbar-dark .navbar-toggler {
+  border-color: transparent !important;
+}
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: transparent !important;
+}
